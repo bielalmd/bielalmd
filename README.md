@@ -18,6 +18,7 @@ I'm passionate about games 🎮 and how they are developed and I'm always lookin
 - 🎯  You can only reach the top one step at a time.
 
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-almeida-2b60b11b1)](https://www.linkedin.com/in/gabriel-almeida-2b60b11b1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:austbiel@gmail.com)](mailto:austbiel@gmail.com)
 [![twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=Twitter&logoColor=white&link=twitter.com/bielalmd)](https://twitter.com/bielalmd/)
