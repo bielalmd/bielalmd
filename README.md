@@ -1,4 +1,4 @@
-# Hey👋
+# Hey! 👋
 
 My name is Gabriel Almeida, I'm from Brazil 🟡🟢 I'm a Java Full Stack Jr. developer in development and I'm also studying Big Data and Analytical Intelligence at the University of Anhembi Morumbi, I entered the world of technology and I intend to learn more every day.
 
