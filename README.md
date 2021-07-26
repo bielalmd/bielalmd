@@ -7,8 +7,8 @@ I'm passionate about games 🎮 and how they are developed and I'm always lookin
 ###  📦"Podem te tirar tudo, menos o seu conhecimento"✍
 
 <div>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bielalmd&show_icons=true&theme=highcontrast"/> 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielalmd&layout=compact&theme=highcontrast">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bielalmd&show_icons=true&theme=yeblu"/> 
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielalmd&layout=compact&theme=yeblu">
 </div> 
 
 
