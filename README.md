@@ -4,7 +4,7 @@ My name is Gabriel Almeida, I'm from Brazil 🟡🟢 I'm a Java Full Stack Jr. d
 
 I'm passionate about games 🎮 and how they are developed and I'm always looking for new challenges to become the best version of myself.
 
-####  "Podem te tirar tudo, menos o seu conhecimento"✍
+###  📦"Podem te tirar tudo, menos o seu conhecimento"✍
 
 <div>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bielalmd&show_icons=true&theme=highcontrast"/> 
