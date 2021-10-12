@@ -1,8 +1,8 @@
 # Hey! 👋
 
-My name is Gabriel Almeida, I'm from Brazil 🟡🟢 I'm a Java Full Stack Jr. developer in development and I'm also studying Big Data and Analytical Intelligence at the University of Anhembi Morumbi, I entered the world of technology and I intend to learn more every day.
+Meu nome é Gabriel Almeida, sou desenvolvedor Java Full Stack Jr. Estudo Big Data e Inteligência Analítica na Universidade do Anhembi Morumbi, entrei no mundo da tecnologia e pretendo aprender mais a cada dia.
 
-I'm passionate about games 🎮 and how they are developed and I'm always looking for new challenges to become the best version of myself.
+Sou apaixonado por jogos 🎮 e como eles são desenvolvidos e estou sempre em busca de novos desafios para me tornar a melhor versão de mim mesmo.
 
 ###  📦"Podem te tirar tudo, menos o seu conhecimento"✍
 
@@ -12,10 +12,10 @@ I'm passionate about games 🎮 and how they are developed and I'm always lookin
 </div> 
 
 
-- 📍   From São Paulo-SP
-- ✅  Dev Java Fullstack - Generation Brasil (attending).
-- 💻  Developing projects and putting into practice everything I learn.
-- 🎯  You can only reach the top one step at a time.
+- 📍   São Paulo-SP
+- ✅  Dev Java Fullstac.
+- 💻  Desenvolvendo projetos e colocando em prática tudo o que aprendo.
+- 🎯  Você só pode chegar ao topo um degrau de cada vez.
 
 
 
