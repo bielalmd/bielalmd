@@ -13,8 +13,7 @@ Sou apaixonado por jogos 🎮 e como eles são desenvolvidos e estou sempre em b
 
 
 - 📍   São Paulo-SP
-- ✅  Dev Java Ful Stack Jr.
-- 💻  Desenvolvendo projetos e colocando em prática tudo o que aprendo.
+- ✅  Dev Front-end Jr.
 - 🎯  Você só pode chegar ao topo um degrau de cada vez.
 
 
