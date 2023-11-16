@@ -1,11 +1,3 @@
-# Hey! 👋
-
-Meu nome é Gabriel Almeida, sou desenvolvedor Java Full Stack Jr. Estudo Big Data e Inteligência Analítica na Universidade do Anhembi Morumbi, entrei no mundo da tecnologia e pretendo aprender mais a cada dia.
-
-Sou apaixonado por jogos 🎮 e como eles são desenvolvidos e estou sempre em busca de novos desafios para me tornar a melhor versão de mim mesmo.
-
-###  📦"Podem te tirar tudo, menos o seu conhecimento"✍
-
 <div>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bielalmd&show_icons=true&theme=yeblu"/> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielalmd&layout=compact&theme=yeblu">
